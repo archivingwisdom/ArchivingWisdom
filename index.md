@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<!DOCTYPE html>
+<!DOCTYPE md>
 <html>
 <head>
   <title>My Knowledge Base</title>
