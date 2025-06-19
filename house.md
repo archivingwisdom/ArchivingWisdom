@@ -6,7 +6,8 @@ title: Housing
 
 # leawjflijal
 
-
+# Insurance
+Grant Deed needs to be sent to insurance to be insured 
 
 ## Buying
 
@@ -16,4 +17,14 @@ title: Housing
 
 ### Mortgage
 
-### 
+### Renovations
+
+
+### Housekeeper 
+
+### Gardener
+
+### Annual Bug Spraying
+
+### Gopher Trap
+
