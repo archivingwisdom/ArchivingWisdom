@@ -1,5 +1,5 @@
 body {
-  background-color: #b0d4f1; /* powder blue */
+  background-color: #b0d4f1 !important; /* powder blue */
   font-family: system-ui, sans-serif;
   max-width: 800px;
   margin: 0 auto;

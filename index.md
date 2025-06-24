@@ -1,9 +1,9 @@
 ---
 layout: default
-title: ArchivingWisdom 
+title: Home
 ---
 
-# Sections
+# ArchivingWisdom
 
 ### 📚 TOPICS
 - Productivity & Workflows
